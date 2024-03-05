@@ -37,3 +37,8 @@ TODO - srun
 TODO - torch load necessary flags
 TODO - torch init
 TODO - torch push onto/pull from GPUs
+
+# Detailed Information from the Paper
+## Paper Link - TODO once published
+## Documentation References
+Throughout the paper, we make numerous references to specific pages within the broader documentation of the various libraries referenced. If you are interested in a direct link to any such page and are unable to find it, please feel free to create a GitHub issue requesting it and we will be happy to locate it and place it here.
